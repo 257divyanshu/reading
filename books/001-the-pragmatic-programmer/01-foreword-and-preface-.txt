@@ -1,0 +1,13 @@
+📍 Meaning of 'pragmatic'
+Being pragmatic means dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+
+In The Pragmatic Programmer Dave and Andy tell us how to program in a way that we can follow.
+
+Think About Your Work.
+
+There are no easy answers. There is no such thing as a best solution, be it a tool, a language, or an operating system. There can only be systems that are more appropriate in a particular set of circumstances.
+
+You shouldn’t be wedded to any particular technology, but have a broad enough background and experience base to allow you to choose good solutions in particular situations. Your background stems from an understanding of the basic principles of computer science, and your experience comes from a wide range of practical projects. Theory and practice combine to make you strong.
+
+👉 TIP 1 : Care About Your Craft
+👉 TIP 2 : Think! About Your Work

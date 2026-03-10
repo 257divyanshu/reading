@@ -1,0 +1,28 @@
+TOPIC 1️⃣ : The Cat Ate My Source Code
+
+Take responsibility for yourself and your actions in terms of your career
+advancement, your project, and your day-to-day work.
+
+In addition to doing your own personal best, you must analyze the situation for risks that are beyond your control.
+
+👉 TIP 3 : Provide Options, Don’t Make Lame Excuses
+
+TOPIC 2️⃣ : Software Entropy
+
+When disorder increases in software, programmers call it “software rot.”
+
+The 'broken windows theory' applies to the field of software development as well.
+
+👉 TIP 4 : Don’t Live with Broken Windows
+
+Broken Windows : bad designs, wrong decisions, poor code, etc.
+
+Neglect accelerates the rot faster than any other factor.
+
+Don’t let entropy win.
+
+One broken window—a badly designed piece of code, a poor management decision that the team must live with for the duration of the project—is all it takes to start the decline.
+
+Even if there’s a fire raging (deadline, release date, trade show demo, etc.), you don’t want to be the first one to make a mess.
+
+⏸️ Page 32 : Stone Soup and Boiled Frogs
