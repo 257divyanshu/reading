@@ -25,4 +25,40 @@ One broken window—a badly designed piece of code, a poor management decision t
 
 Even if there’s a fire raging (deadline, release date, trade show demo, etc.), you don’t want to be the first one to make a mess.
 
-⏸️ Page 32 : Stone Soup and Boiled Frogs
+TOPIC 3️⃣ : Stone Soup and Boiled Frogs
+
+The 'stone soup' story.
+
+You may be in a situation where you know exactly what needs doing and how to do it. The entire system just appears before your eyes—you know it’s right. But ask permission to tackle the whole thing and you’ll be met with delays and blank stares. People will form committees, budgets will need approval, and things will get complicated. Everyone will guard their own resources. Sometimes this is called “start-up fatigue.”
+It’s time to bring out the stones. Work out what you can reasonably ask for. Develop it well. Once you’ve got it, show people, and let them marvel. Then say “of course, it would be better if we added .” Pretend it’s not important. Sit back and wait for them to start asking you to add the functionality you originally wanted. People find it easier to join an ongoing success. Show them a glimpse of the future and you’ll get them to rally around.
+(learn from the soilders of the 'stone soup' story)
+
+👉 TIP 5 : Be a Catalyst for Change
+
+Projects slowly and inexorably get totally out of hand. Most software disasters start out too small to notice, and most project overruns happen a day at a time. Systems drift from their specifications feature by feature, while patch after patch gets added to a piece of code until there’s nothing of the original left. It’s often the accumulation of small things that breaks morale and teams.
+
+In the 'stone soup' story, the villagers thought about the stones and forgot about the rest of the world.
+
+👉 TIP 6 : Remember the Big Picture
+
+Note that the frog’s problem (who is in a pot whose temperature is being raised gradually) is different from the broken windows issue discussed in Section 2. In the Broken Window Theory, people lose the will to fight entropy because they perceive that no one else cares. The frog just doesn’t notice the change.
+
+Don’t be like the frog. Keep an eye on the big picture. Constantly review what’s happening around you, not just what you personally are doing.
+
+TOPIC 4️⃣ : GOOD ENOUGH SOFTWARE
+
+SUBTOPIC 1 : Involve Your Users in the Trade-Off
+
+It would be unprofessional to ignore these users’ requirements simply to add new features to the program, or to polish up the code just one more time.
+
+The scope and quality of the system you produce should be specified as part of that system’s requirements.
+
+👉 TIP 7 : Make Quality a Requirements Issue
+
+Great software today is often preferable to perfect software tomorrow. If you give your users something to play with early, their feedback will often lead you to a better eventual solution.
+
+SUBTOPIC 2 : Know When to Stop
+
+Don’t spoil a perfectly good program by overembellishment and overrefinement. Move on, and let your code stand in its own right for a while. It may not be perfect.
+
+⏸️ Page 38 : Your Knowledge Portfolio
