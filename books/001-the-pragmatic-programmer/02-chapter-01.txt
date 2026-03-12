@@ -61,4 +61,66 @@ SUBTOPIC 2 : Know When to Stop
 
 Don’t spoil a perfectly good program by overembellishment and overrefinement. Move on, and let your code stand in its own right for a while. It may not be perfect.
 
-⏸️ Page 38 : Your Knowledge Portfolio
+TOPIC 5️⃣ : Your Knowledge Portfolio
+
+Your knowledge and experience are your most important professional assets.
+Unfortunately, they’re expiring assets.
+Given the speed at which Web-years fly by, this can happen pretty quickly.
+
+SUBTOPIC 1 : Your Knowledge Portfolio
+
+Knowledge Portfolio of a programmer consists of:
+- all the facts a he/she knows about computing
+- application domains he/she works in
+- all his/her experience
+
+SUBTOPIC 2 : Building Your Portfolio
+
+Guidelines:
+
+(1) Invest regularly
+    - Invest in your knowledge portfolio regularly. Even if it’s just a small amount.
+
+(2) Diversify
+    - The more different things you know, the more valuable you are. 
+    - Know the ins and outs of the particular technology you are working with currently. But don’t stop there. 
+    - The more technologies you are comfortable with, the better you will be able to adjust to change.
+
+(3) Manage risk
+    - Technology exists along a spectrum from risky, potentially high-reward to low-risk, low-reward standards.
+    - Don’t put all your technical eggs in one basket.
+
+(4) Buy low sell high
+    - Learning an emerging technology before it becomes popular can be just as hard as finding an undervalued stock, but the payoff can be just as rewarding.
+
+(5) Review and rebalance
+    - Because it is a very dynamic industry.
+
+👉 TIP 8 : Invest Regularly in Your Knowledge Portfolio
+(Of all the guidelines, its the simplest and the most important one.)
+
+SUBTOPIC 3 : GOALS
+
+To acquire intellectual capital to fund your knowledge portfolio:
+- Learn at least one new language every year.
+- Read a technical book each quarter.
+- Read nontechnical books, too. (Don’t forget the human side of the equation.)
+- Take classes.
+- Participate in local user groups. (Isolation can be deadly to your career. Find out what people are working on outside of your company.)
+- Experiment with different environments.
+- Stay current. (Subscribe to trade magazines and other journals.)
+- Get wired.
+
+- The cross-pollination of ideas is important; try to apply the lessons you’ve learned to your current project. Even if your project doesn’t use that technology, perhaps you can borrow some ideas. 
+
+SUBTOPIC 4 : Opportunities for Learning
+
+- Talking to other people will help build your personal network, and you may surprise yourself by finding solutions to other, unrelated problems along the way.
+
+SUBTOPIC 5 : Critical Thinking
+
+👉 TIP 9 : Critically Analyze What You Read and Hear
+
+🔗 Care and Cultivation of Gurus (PAGE 17 in the book)
+
+⏸️ Page 43 : Communicate!
