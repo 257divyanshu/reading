@@ -1,0 +1,37 @@
+📍 The Evils of Duplication : warns us not to duplicate knowledge throughout our systems
+
+📍 Orthogonality : not to split any one piece of knowledge across multiple system components
+
+PART 1️⃣ : The Evils of Duplication
+
+Maintenance is not a discrete activity, but a routine part of the entire development process.
+
+We feel that the only way to develop software reliably, and to make ourdevelopments easier to understand and maintain, is to follow the DRY principle:
+EVERY PIECE OF KNOWLEDGE MUST HAVE A SINGLE, UNAMBIGUOUS, AUTHORITATIVE REPRESENTATION WITHIN A SYSTEM.
+
+👉 TIP 11 : DRY—Don’t Repeat Yourself
+
+SUBTOPIC 1 : How Does Duplication Arise?
+
+- Imposed duplication
+  - Developers feel they have no choice—the environment seems to require duplication.
+- Inadvertent duplication
+  - Developers don’t realize that they are duplicating information.
+- Impatient duplication
+  - Developers get lazy and duplicate because it seems easier.
+- Interdeveloper duplication
+  - Multiple people on a team (or on different teams) duplicate a piece of information.
+
+SUBTOPIC 2 : Imposed Duplication 🔁
+
+The DRY principle tells us to keep the low-level knowledge in the code, where it belongs, and reserve the comments for other, high-level explanations. Otherwise, we’re duplicating knowledge, and every change means changing both the code and the comments.
+
+SUBTOPIC 3 : Inadvertent Duplication 🔁
+
+SUBTOPIC 5 : Impatient Duplication 🔁
+
+SUBTOPIC 3 : Interdeveloper Duplication 🔁
+
+👉 TIP 12 : Make It Easy to Reuse.
+
+⏸️ Page 59 : PART 2️⃣ : Orthogonality
