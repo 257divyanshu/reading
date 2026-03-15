@@ -2,7 +2,7 @@
 
 📍 Orthogonality : not to split any one piece of knowledge across multiple system components
 
-PART 1️⃣ : The Evils of Duplication
+PART 1️⃣ (7️⃣) : The Evils of Duplication
 
 Maintenance is not a discrete activity, but a routine part of the entire development process.
 
@@ -34,4 +34,72 @@ SUBTOPIC 3 : Interdeveloper Duplication 🔁
 
 👉 TIP 12 : Make It Easy to Reuse.
 
-⏸️ Page 59 : PART 2️⃣ : Orthogonality
+PART 2️⃣ (8️⃣) : Orthogonality
+
+SUBTOPIC 1 : What Is Orthogonality?
+
+Two lines are orthogonal if they meet at right angles. In vector terms, the two lines are independent. Move along one of the lines, and your position projected onto the other doesn’t change.
+
+Two or more things are orthogonal if changes in one do not affect any of the others. In a well-designed system, the database code will be orthogonal to the user interface: you can change the interface without affecting the database, and swap databases without changing the interface.
+
+SUBTOPIC 2 : A Nonorthogonal System
+
+Helicopter controls are decidedly not orthogonal.
+
+SUBTOPIC 3 : Benefits of Orthogonality
+
+As the helicopter example illustrates, nonorthogonal systems are inherently more complex to change and control. When components of any system are highly interdependent, there is no such thing as a local fix.
+
+👉 TIP 13 : Eliminate Effects Between Unrelated Things
+
+We want to design components that are self-contained: independent, and with a single, well-defined purpose.
+
+When components are isolated from one another, you know that you can change one without having to worry about the rest.
+
+Benefits of writing orthogonal systems:
+- increased prductivity
+- reduced risk
+
+SUBTOPIC 4 : Gain Productivity
+
+SUBTOPIC 5 : Reduce Risk
+
+Ways to apply the principle of orthogonality to your work:
+- Project Teams
+- Design
+- Toolkits and libraries
+- Coding
+
+SUBTOPIC 6 : Project Teams
+
+When teams are organized with lots of overlap, members are confused about responsibilities. Every change needs a meeting of the entire team, because any one of them might be affected.
+
+You can get an informal measure of the orthogonality of a project team’s structure. Simply see how many people need to be involved in discussing each change that is requested. The larger the number, the less orthogonal the group. Clearly, an orthogonal team is more efficient.
+
+SUBTOPIC 7 : Design
+
+There is an easy test for orthogonal design. Once you have your components mapped out, ask yourself: If I dramatically change the requirements behind a particular function, how many modules are affected? In an orthogonal system, the answer should be “one.”
+
+SUBTOPIC 8 : Toolkits and libraries 🔁
+
+When you bring in a toolkit (or even a library from other members of your team), ask yourself whether it imposes changes on your code that shouldn’t be there.
+
+SUBTOPIC 9 : Coding
+
+Unless you constantly monitor not just what you are doing but also the larger context of the application, you might unintentionally duplicate functionality in some other module, or express existing knowledge twice.
+
+Techniques to maintain orthogonality:
+- Keep your code decoupled
+- Avoid global data
+- Avoid similar functions
+
+SUBTOPIC 10 : Documentation
+
+Orthogonality also applies to documentation. The axes are content and presentation. With truly orthogonal documentation, you should be able to change the appearance dramatically without changing the content.
+
+SUBTOPIC 11 : Living with Orthogonality
+
+With DRY, you’re looking to minimize duplication within a system, whereas with orthogonality you reduce the interdependency among the system’s components.
+If you use the principle of orthogonality, combined closely with the DRY principle, you’ll find that the systems you develop are more flexible, more understandable, and easier to debug, test, and maintain.
+
+⏸️ Page 69 : TOPIC 3️⃣ (9️⃣) : Reversibility
