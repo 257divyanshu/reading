@@ -102,4 +102,39 @@ SUBTOPIC 11 : Living with Orthogonality
 With DRY, you’re looking to minimize duplication within a system, whereas with orthogonality you reduce the interdependency among the system’s components.
 If you use the principle of orthogonality, combined closely with the DRY principle, you’ll find that the systems you develop are more flexible, more understandable, and easier to debug, test, and maintain.
 
-⏸️ Page 69 : TOPIC 3️⃣ (9️⃣) : Reversibility
+TOPIC 3️⃣ (9️⃣) : Reversibility
+
+With every critical decision, the project team commits to a smaller target—a narrower version of reality that has fewer options.
+By the time many critical decisions have been made, the target becomes so small that if it moves, or the wind changes direction, or a butterfly in Tokyo flaps its wings, you miss. And you may miss by a huge amount.
+The problem is that critical decisions aren’t easily reversible.
+
+SUBTOPIC 1 : Reversibility
+
+CASE STUDY:
+Suppose you decide, early in the project, to use a relational database from vendor A. Much later, during performance testing, you discover that the database is simply too slow, but that the object database from vendor B is faster. With most conventional projects, you’d be out of luck. Most of the time, calls to third-party products are entangled throughout the code. But if you really abstracted the idea of a database out—to the point where it simply provides persistence as a service—then you have the flexibility to change horses in midstream.
+
+The mistake lies in assuming that any decision is cast in stone—and in not preparing for the contingencies that might arise. Instead of carving decisions in stone, think of them more as being written in the sand at the beach. A big wave can come along and wipe them out at any time.
+
+👉 TIP 14 : There Are No Final Decisions
+
+SUBTOPIC 2 : Flexible Architecture
+
+While many people try to keep their code flexible, you also need to think about maintaining flexibility in the areas of architecture, deployment, and vendor integration.
+
+If you keep decisions soft and pliable, it won’t be hard at all. If you have poor encapsulation, high coupling, and hard-coded logic or parameters in the code, it might be impossible.
+
+Whatever mechanism you use, make it reversible. If something is added automatically, it can be taken out automatically as well.
+
+TOPIC 4️⃣ (🔟) : Tracer Bullets 🔁
+
+SUBTOPIC 1 : Code That Glows in the Dark 🔁
+
+👉 TIP 15 : Use Tracer Bullets to Find the Target
+
+SUBTOPIC 2 : Tracer Bullets Don’t Always Hit Their Target 🔁
+
+You use the technique in situations where you’re not 100% certain of where you’re going. You shouldn’t be surprised if your first couple of attempts miss: the user says “that’s not what I meant,” or data you need isn’t available when you need it, or performance problems seem likely. Work out how to change what you’ve got to bring it nearer the target, and be thankful that you’ve used a lean development methodology. A small body of code has low inertia—it is easy and quick to change. You’ll be able to gather feed back on your application and generate a new, more accurate version faster and at less cost than with any other method. And because every major application component is represented in your tracer code, your users can be confident that what they’re seeing is based on reality, not just a paper specification
+
+SUBTOPIC 3 : Tracer Code versus Prototyping 🔁
+
+⏸️ Page 77 : TOPIC 4️⃣ (1️⃣1️⃣) : Prototypes and Post-it Notes
