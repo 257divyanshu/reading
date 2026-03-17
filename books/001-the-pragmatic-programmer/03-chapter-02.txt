@@ -137,4 +137,53 @@ You use the technique in situations where you’re not 100% certain of where you
 
 SUBTOPIC 3 : Tracer Code versus Prototyping 🔁
 
-⏸️ Page 77 : TOPIC 4️⃣ (1️⃣1️⃣) : Prototypes and Post-it Notes
+TOPIC 5️⃣ (1️⃣1️⃣) : Prototypes and Post-it Notes
+
+We can target a prototype to test one or more specific aspects of a project.
+
+Post-it notes are great for prototyping dynamic things such as workflow and application logic. A user interface can be prototyped as a drawing on a whiteboard, as a nonfunctional mock-up drawn with a paint program, or with an interface builder.
+
+Prototypes are designed to answer just a few questions, so they are much cheaper and faster to develop than applications that go into production. The code can ignore unimportant details—unimportant to you at the moment, but probably very important to the user later on. If you are prototyping a GUI, for instance, you can get away with incorrect results or data. On the other hand, if you’re just investigating computational or performance aspects, you can get away with a pretty poor GUI, or perhaps even no GUI at all.
+But if you find yourself in an environment where you cannot give up the details, then you need to ask yourself if you are really building a prototype at all. Perhaps a tracer bullet style of development would be more appropriate in this case.
+
+SUBTOPIC 1 : Things to Prototype
+
+Anything that carries risk. Anything that hasn’t been tried before, or that is absolutely critical to the final system. Anything unproven, experimental, or doubtful. Anything you aren’t comfortable with. 
+
+Prototyping is a learning experience. Its value lies not in the code produced, but in the lessons learned.
+
+👉 TIP 16 : Prototype to Learn
+
+SUBTOPIC 2 : How to Use Prototypes
+
+While building a prototype, we can ignore:
+- correctness : use dummy data where appropriate
+- completeness : it may function only in a very limited sense
+- robustness : error checking may be incomplete/missing
+- style : don't document the prototype; document what you learned from it
+
+SUBTOPIC 3 : Prototyping Architecture
+
+specific areas to look for in the architectural prototype:
+- Are the responsibilities of the major components well defined and appropriate?
+- Are the collaborations between major components well defined?
+- Is coupling minimized?
+- Can you identify potential sources of duplication?
+- Are interface definitions and constraints acceptable?
+- Does every module have an access path to the data it needs during execution? Does it have that access when it needs it?
+
+SUBTOPIC 4 : How Not to Use Prototypes
+
+If you feel there is a strong possibility in your environment or culture that the purpose of prototype code may be misinterpreted, you may be better off with the tracer bullet approach.
+
+When used properly, a prototype can save you huge amounts of time, money, pain, and suffering by identifying and correcting potential problem spots early in the development cycle—the time when fixing mistakes is both cheap and easy.
+
+TOPIC 6️⃣ (1️⃣2️⃣) : Domain Languages
+
+👉 TIP 17 : Program Close to the Problem Domain
+
+By coding at a higher level of abstraction, you are free to concentrate on solving domain problems, and can ignore petty implementation details.
+
+SUBTOPIC 1 : Implementing a Mini-Language 🔁
+
+⏸️ Page 85 : SUBTOPIC 2 : Data Languages and Imperative Languages
