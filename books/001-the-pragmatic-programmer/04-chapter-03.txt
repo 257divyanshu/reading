@@ -1,0 +1,32 @@
+Tools amplify your talent. The better your tools, and the better you know how to use them, the more productive you can be. As you gain experience, and as you come across special requirements, you’ll add to this basic set. Always be on the lookout for better ways of doing things. If you come across a situation where you feel your current tools can’t cut it, make a note to look for something different or more powerful that would have helped. Let need drive your acquisitions.
+
+TOPIC 1️⃣ (1️⃣4️⃣) : The Power of Plain Text
+
+The best format for storing knowledge persistently is plain text.
+
+SUBTOPIC 1 : What Is Plain Text?
+
+👉 TIP 20 : Keep Knowledge in Plain Text
+
+SUBTOPIC 2 : Drawbacks
+
+There are two major drawbacks to using plain text: (1) It may take more space to store than a compressed binary format, and (2) it may be computationally more expensive to interpret and process a plain text file.
+
+SUBTOPIC 3 : The Power of Text
+
+The benefits:
+- Insurance against obsolescence
+- Leverage
+- Easier testing
+
+(1) Insurance Against Obsolescence
+- Human-readable forms of data, and self-describing data, will outlive all other forms of data and the applications that created them. As long as the data survives, you will have a chance to be able to use it.
+- You can parse such a file with only partial knowledge of its format; with most binary files, you must know all the details of the entire format in order to parse it successfully.
+
+(2) Leverage
+- Virtually every tool in the computing universe, can operate on plain text.
+
+(3) Easier Testing
+If you use plain text to create synthetic data to drive system tests, then it is a simple matter to add, update, or modify the test data without having to create any special tools to do so. Similarly, plain text output from regression tests can be trivially analyzed (with diff, for instance) or subjected to more thorough scrutiny with Perl, Python, or some other scripting tool.
+
+⏸️ PAGE 101 : SUBTOPIC 4 : Lowest Common Denominator
