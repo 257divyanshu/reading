@@ -29,4 +29,39 @@ The benefits:
 (3) Easier Testing
 If you use plain text to create synthetic data to drive system tests, then it is a simple matter to add, update, or modify the test data without having to create any special tools to do so. Similarly, plain text output from regression tests can be trivially analyzed (with diff, for instance) or subjected to more thorough scrutiny with Perl, Python, or some other scripting tool.
 
-⏸️ PAGE 101 : SUBTOPIC 4 : Lowest Common Denominator
+SUBTOPIC 4 : Lowest Common Denominator
+
+You need to ensure that all parties can communicate using a common standard. Plain text is that standard.
+
+🔬 What does the author mean by 'Lowest Common Denominator'?
+- The phrase "lowest common denominator" is an idiom that means the most basic, universally shared trait among a diverse group.
+
+TOPIC 2️⃣ (1️⃣5️⃣) : Shell Games
+
+If you do all your work using GUIs, you are missing out on the full capabilities of your environment. You won’t be able to automate common tasks, or use the full power of the tools available to you. And you won’t be able to combine your tools to create customized macro tools. A benefit of GUIs is WYSIWYG—what you see is what you get. The disadvantage is WYSIAYG—what you see is all you get.
+
+GUI environments are normally limited to the capabilities that their designers intended. If you need to go beyond the model the designer provided, you are usually out of luck—and more often than not, you do need to go beyond the model.
+
+👉 TIP 21 : Use the Power of Command Shells
+
+Play around with your command shell, and you’ll be surprised at how much more productive it makes you.
+
+SUBTOPIC 1 : Shell Utilities and Windows Systems
+
+TOPIC 3️⃣ (1️⃣6️⃣) : Power Editing
+
+SUBTOPIC 1 : One Editor
+
+👉 TIP 22 : Use a Single Editor Well
+
+Choose an editor, know it thoroughly, and use it for all editing tasks. If you use a single editor (or set of keybindings) across all text editing activities, you don’t have to stop and think to accomplish text manipulation: the necessary keystrokes will be a reflex.
+
+SUBTOPIC 2 : Editor Features
+
+SUBTOPIC 3 : Productivity
+
+SUBTOPIC 4 : Where to Go from Here
+
+SUBTOPIC 5 : What editors are available?
+
+⏸️ PAGE 111 : TOPIC 4️⃣ (1️⃣7️⃣) : Source Code Control
