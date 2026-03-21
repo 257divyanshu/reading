@@ -64,4 +64,30 @@ SUBTOPIC 4 : Where to Go from Here
 
 SUBTOPIC 5 : What editors are available?
 
-⏸️ PAGE 111 : TOPIC 4️⃣ (1️⃣7️⃣) : Source Code Control
+TOPIC 4️⃣ (1️⃣7️⃣) : Source Code Control
+
+With a properly configured source code control system, you can always go back to a previous version of your software.
+
+👉 TIP 23 : Always Use Source Code Control
+
+SUBTOPIC 1 : Source CodeControl and Builds 🔁
+
+SUBTOPIC 2 : But My Team Isn’t Using Source Code Control
+
+Use one freely available source code control system, and make a point of keeping your personal work safely tucked into a repository (as well as doing what ever your project requires). Although this may seem to be duplication of effort, we can pretty much guarantee it will save you grief (and save your project money) the first time you need to answer questions such as “What did you do to the xyz module?” and “What broke the build?”
+
+TOPIC 5️⃣ (1️⃣8️⃣) : Debugging
+
+SUBTOPIC 1 : Psychology of Debugging
+
+👉 TIP 24 : Fix the Problem, Not the Blame
+
+It doesn’t really matter whether the bug is your fault or someone else’s. It is still your problem.
+
+SUBTOPIC 2 : A Debugging Mindset
+
+👉 TIP 25 : Don’t Panic (the first rule of debugging)
+
+Beware of myopia when debugging. Resist the urge to fix just the symptoms you see: it is more likely that the actual fault may be several steps removed from what you are observing, and may involve a number of other related things. Always try to discover the root cause of a problem, not just this particular appearance of it.
+
+⏸️ PAGE 116 : SUBTOPIC 3 : Where to Start
