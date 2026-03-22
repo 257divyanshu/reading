@@ -90,4 +90,53 @@ SUBTOPIC 2 : A Debugging Mindset
 
 Beware of myopia when debugging. Resist the urge to fix just the symptoms you see: it is more likely that the actual fault may be several steps removed from what you are observing, and may involve a number of other related things. Always try to discover the root cause of a problem, not just this particular appearance of it.
 
-⏸️ PAGE 116 : SUBTOPIC 3 : Where to Start
+SUBTOPIC 3 : Where to Start
+
+Routinely set compiler warning levels as high as possible. It doesn’t make sense to waste time trying to find a problem that the compiler could find for you! We need to concentrate on the harder problems at hand.
+
+Artificial tests don’t exercise enough of an application. You must brutally test both boundary conditions and realistic end-user usage patterns. 
+
+SUBTOPIC 4 : Debugging Strategies
+
+SUBTOPIC 5 : Visualize Your Data
+
+Often, the easiest way to discern what a program is doing—or what it is going to do—is to get a good look at the data it is operating on.
+
+But you can gain a much deeper insight into your data by using a debugger that allows you to visualize your data and all of the inter relationships that exist.
+
+SUBTOPIC 6 : Tracing
+
+Tracing statements are those little diagnostic messages you print to the screen or to a file that say things such as “got here” and “value of x = 2.” It’s a primitive technique compared with IDE-style debuggers, but it is peculiarly effective at diagnosing several classes of errors that debuggers can’t. Tracing is invaluable in any system where time itself is a factor: concurrent processes, real-time systems, and event-based applications.
+
+Trace messages should be in a regular, consistent format; you may want to parse them automatically.
+
+SUBTOPIC 7 : Rubber Ducking
+
+The simple act of explaining, step by step, what the code is supposed to do often causes the problem to leap off the screen and announce itself.
+It sounds simple, but in explaining the problem to another person you must explicitly state things that you may take for granted when go ing through the code yourself. By having to verbalize some of these assumptions, you may suddenly gain new insight into the problem.
+
+SUBTOPIC 8 : Process of Elimination
+
+👉 TIP 26 : “select” Isn’t Broken
+
+If, however, you have no obvious place to start looking, you can always rely on a good old-fashioned binary search. See if the symptoms are present at either of two far away spots in the code. Then look in the middle. If the problem is present, then the bug lies between the start and the middle point; otherwise, it is between the middle point and the end. You can continue in this fashion until you narrow down the spot sufficiently to identify the problem.
+
+SUBTOPIC 9 : The Element of Surprise
+
+The amount of surprise you feel when something goes wrong is directly proportional to the amount of trust and faith you have in the code being run. That’s why, when faced with a “surprising” failure, you must realize that one or more of your assumptions is wrong. Don’t gloss over a routine or piece of code involved in the bug because you “know” it works. Prove it. Prove it in this context, with this data, with these boundary conditions.
+
+👉 TIP 27 : Don’t Assume It—Prove It
+
+When you come across a surprise bug, beyond merely fixing it, you need to determine why this failure wasn’t caught earlier. Consider whether you need to amend the unit or other tests so that they would have caught it.
+
+Also, if the bug is the result of bad data that was propagated through a couple of levels before causing the explosion, see if better parameter checking in those routines would have isolated it earlier.
+
+While you’re at it, are there any other places in the code that may be susceptible to this same bug? Now is the time to find and fix them.
+
+If it took a long time to fix this bug, ask yourself why. Is there anything you can do to make fixing this bug easier the next time around?
+
+Finally, if the bug is the result of someone’s wrong assumption, discuss the problem with the whole team: if one person misunderstands, then it’s possible many people do
+
+🔗 Debugging Checklist (PAGE 78 in the book)
+
+⏸️ PAGE 124 : TOPIC 6️⃣ (1️⃣9️⃣) Text Manipulation
