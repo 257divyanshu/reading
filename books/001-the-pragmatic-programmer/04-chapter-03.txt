@@ -139,4 +139,32 @@ Finally, if the bug is the result of someone’s wrong assumption, discuss the p
 
 🔗 Debugging Checklist (PAGE 78 in the book)
 
-⏸️ PAGE 124 : TOPIC 6️⃣ (1️⃣9️⃣) Text Manipulation
+TOPIC 6️⃣ (1️⃣9️⃣) Text Manipulation 🔁
+
+👉 TIP 28 : Learn a Text Manipulation Language
+
+TOPIC 7️⃣ (2️⃣0️⃣) Code Generators
+
+👉 TIP 29 : Write Code That Writes Code
+
+SUBTOPIC 1 : Passive Code Generators
+
+They  are run once to produce a result. From that point forward, the result becomes freestanding—it is divorced from the code generator. 
+
+They save typing. They are basically parameterized templates, generating a given output from a set of inputs. Once the result is produced, it becomes a full-fledged source file in the project; it will be edited, compiled, and placed under source control just like any other file. Its origins will be forgotten
+
+SUBTOPIC 2 : Active Code Generators
+
+With an active code generator, you can take a single representation of some piece of knowledge and convert it into all the forms your application needs. This is not duplication, because the derived forms are disposable, and are generated as needed by the code generator (hence the word active)
+
+Whenever you find yourself trying to get two disparate environments to work together, you should consider using active code generators.
+
+SUBTOPIC 3 : Code Generators Needn’t Be Complex
+
+Keep the input format simple, and the code generator becomes simple.
+
+SUBTOPIC 4 : Code Generators Needn’t Generate Code
+
+You can use code generators to write just about any output: HTML, XML, plain text—any text that might be an input somewhere else in your project.
+
+⏸️ PAGE 132 : Chapter 4 : Pragmatic Paranoia
