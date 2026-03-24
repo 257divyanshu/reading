@@ -1,0 +1,31 @@
+👉 TIP 30 : You Can’t Write Perfect Software
+
+Pragmatic Programmers code in defenses against their own mistakes.
+
+TOPIC 1️⃣ (2️⃣1️⃣) : Design by Contract
+
+One of the best solutions for ensuring plain dealing is the contract.
+
+A contract defines your rights and responsibilities, as well as those of the other party. In addition, there is an agreement concerning repercussions if either party fails to abide by the contract.
+
+SUBTOPIC 1 : DBC (Design by Contract)
+
+It is a simple yet powerful technique that focuses on documenting (and agreeing to) the rights and responsibilities of software modules to ensure program correctness.
+
+What is a correct program? One that does no more and no less than it claims to do. Documenting and verifying that claim is the heart of Design by Contract.
+
+👉 TIP 31 : Design with Contracts
+
+Be strict in what you will accept before you begin, and promise as little as possible in return. Remember, if your contract indicates that you’ll accept anything and promise the world in return, then you’ve got a lot of code to write!
+
+SUBTOPIC 2 : Implementing DBC
+
+The greatest benefit of using DBC may be that it forces the issue of requirements and guarantees to the forefront. Simply enumerating at design time what the input domain range is, what the boundary conditions are, and what the routine promises to deliver—or, more importantly, what it doesn’t promise to deliver—is a huge leap forward in writing better software. By not stating these things, you are back to programming by coincidence (see page 172), which is where many projects start, finish, and fail.
+
+SUBTOPIC 3 : Assertions
+
+SUBTOPIC 4 : Language support
+
+SUBTOPIC 5 : DBC and Crashing Early
+
+⏸️ PAGE 141 : SUBTOPIC 6 : Other uses of Invariants

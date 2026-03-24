@@ -166,5 +166,3 @@ Keep the input format simple, and the code generator becomes simple.
 SUBTOPIC 4 : Code Generators Needn’t Generate Code
 
 You can use code generators to write just about any output: HTML, XML, plain text—any text that might be an input somewhere else in your project.
-
-⏸️ PAGE 132 : Chapter 4 : Pragmatic Paranoia
