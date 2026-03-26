@@ -65,4 +65,22 @@ SUBTOPIC 1 : What is Exceptional? 🔁
 
 SUBTOPIC 2 : Error Handlers Are an Alternative 🔁
 
-⏸️ PAGE 154 : TOPIC 5️⃣ (2️⃣5️⃣) : How to Balance Resources
+TOPIC 5️⃣ (2️⃣5️⃣) : How to Balance Resources
+
+👉 TIP 35 : Finish What You Start
+
+It simply means that the routine or object that allocates a resource should be responsible for deallocating it.
+
+SUBTOPIC 1 : Nest Allocations 🔁
+
+SUBTOPIC 2 : Objects and Exceptions 🔁
+
+SUBTOPIC 3 : Balancing and Exceptions 🔁
+
+SUBTOPIC 4 : When You Can’t Balance Resources 🔁
+
+SUBTOPIC 5 : Checking the Balance 🔁
+
+It is always a good idea to build code that actually checks that resources are indeed freed appropriately.
+
+⏸️ PAGE 162 : CHAPTER 5 : Bend, or break.
