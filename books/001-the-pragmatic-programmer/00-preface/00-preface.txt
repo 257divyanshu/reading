@@ -1,0 +1,28 @@
+Pragmatic means dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+
+As a programmer, you are part listener, part advisor, part interpreter, and part dictator.
+🔬 NOTES
+- Listener → You understand requirements from users, clients, or teammates.
+- Advisor → You suggest better approaches or improvements (they don’t always know the best solution).
+- Interpreter → You translate human needs into code and technical decisions.
+- Dictator → You enforce technical constraints and make final calls when needed (because reality/technology has limits).
+
+You try to capture elusive requirements and find way of expressing them so that a mere machine can do them justice.
+🔬 NOTES
+You take unclear human ideas and turn them into clear, exact code that a computer can reliably follow.
+
+There are no easy answers. There is no such thing as a best solution, be it a tool, a language, or an operating system. There can only be systems that are more appropriate in a particular set of circumstances.
+This is where pragmatism comes in. You shouldn’t be wedded to any particular technology, but have a broad enough background and experience base to allow you to choose good solutions in particular situations. Your background stems from an understanding of the basic principles of computer science, and your experience comes from a wide range of practical projects. Theory and practice combine to make you strong.
+
+Pragmatic Programmers:
+- are early adopters/fast adopters
+- are inquistive (they are a pack rat for little facts)
+- think critically
+- try to understand the underlying nature of each problem they face
+- try hard to be familiar with a broad range of technologies and environments, and work to keep abreast of new developments
+
+👉 TIP 1 : Care About Your Craft
+
+👉 TIP 2 : Think! About Your Work
+
+Every day, work to refine the skills you have and to add new tools to your repertoire.

@@ -1,0 +1,155 @@
+To make intelligent compromises and informed decisions you need to be aware of the bigger pictue, you need to think beyond the immediate problem.
+
+TOPIC 1️⃣ (1️⃣) : The Cat Ate My Source Code
+
+📍 SUBTOPIC 1 : Take Responsibility
+
+Take responsibility for yourself and your actions in terms of your career advancement, your project, and your day-to-day work.
+
+In addition to doing your own personal best, you must analyze the situation for risks that are beyond your control.
+
+When you do accept the responsibility for an outcome, you should expect to be held accountable for it.
+
+When you make a mistake or an error in judgment, admit it honestly and try to offer options.
+
+If there was a chance something external could fail, you should’ve planned a fallback in advance.
+
+👉 TIP 3 : Provide Options, Don’t Make Lame Excuses
+
+TOPIC 2️⃣ (2️⃣) : Software Entropy
+
+Broken Windows Theory suggests that aggressive policing of minor offenses (often called "quality-of-life" crimes) creates an atmosphere of order that prevents the escalation to more serious criminal activity.
+
+👉 TIP 4 : Don’t Live with Broken Windows
+
+Don’t leave “broken windows” (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered. If there is insufficient time to fix it properly, then board it up. Perhaps you can comment out the offending code, or display a "Not Implemented" message, or substitute dummy data instead. Take some action to prevent further damage and to show that you’re on top of the situation.
+
+Neglect accelerates the rot faster than any other factor.
+
+TOPIC 3️⃣ (3️⃣) : Stone Soup and Boiled Frogs
+
+Start-up fatigue: When a clear solution exists, but progress stalls due to bureaucracy, approvals, and organizational resistance.
+
+👉 TIP 5 : Be a Catalyst for Change
+
+SUBTOPIC 1 : The Villager's Side
+
+The stone soup story is also about gentle and gradual deception. It’s about focusing too tightly.
+
+It’s often the accumulation of small things that breaks morale and teams.
+
+👉 TIP 6 : Remember the Big Picture
+
+Don’t be like the frog (in a pot of water that is being boiled gradually). Keep an eye on the big picture. Constantly review what’s happening around you, not just what you personally are doing.
+
+TOPIC 4️⃣ (4️⃣) : GOOD ENOUGH SOFTWARE
+
+SUBTOPIC 1 : Involve Your Users in the Trade-Off
+
+The scope and quality of the system you produce should be specified as part of that system’s requirements.
+
+👉 TIP 7 : Make Quality a Requirements Issue
+
+Great software today is often preferable to perfect software tomorrow. If you give your users something to play with early, their feedback will often lead you to a better eventual solution.
+
+SUBTOPIC 2 : Know When to Stop
+
+Don’t spoil a perfectly good program by overembellishment and over-refinement. Move on, and let your code stand in its own right for a while. It may not be perfect. Don’t worry: it could never be perfect.
+
+TOPIC 5️⃣ (5️⃣) : Your Knowledge Portfolio
+
+Your knowledge and experience are your most important professional assets.
+Unfortunately, they’re expiring assets. Your knowledge becomes out of date as new techniques, languages, and environments are developed. Changing market forces may render your experience obsolete or irrelevant. Given the speed at which Web-years fly by, this can happen pretty quickly.
+
+SUBTOPIC 1 : Your Knowledge Portfolio
+
+A programmer's knowledge portfolio consists of:
+- all the facts he/she knows about computing
+- the application domains he/she work in
+- all his/her experience
+
+SUBTOPIC 2 : Building Your Portfolio
+
+1. Invest regularly → Consistently invest small efforts in learning; habit matters more than intensity.
+2. Diversify → Learn multiple technologies to stay adaptable in a rapidly changing field.
+3. Manage risk → Balance between safe and risky technologies; don’t rely on just one.
+4. Buy low, sell high → Learn emerging tech early to gain long-term advantage.
+5. Review and rebalance → Regularly update your skills based on industry changes.
+
+👉 TIP 8 : Invest Regularly in Your Knowledge Portfolio
+(Of all the guidelines, its the simplest and the most important one.)
+
+SUBTOPIC 3 : GOALS
+
+It doesn’t matter whether you ever use any of these technologies on a project, or even whether you put them on your resume. The process of learning will expand your thinking, opening you to new possibilities and new ways of doing things. The cross-pollination of ideas is important; try to apply the lessons you’ve learned to your current project. Even if your project doesn’t use that technology, perhaps you can borrow some ideas.
+
+1. Learn a new language every year → Learning new languages broadens thinking and problem-solving approaches.
+2. Read a technical book each quarter → Regularly read tech books to deepen and expand your knowledge.
+3. Read nontechnical books too → Understand people better to build more user-focused solutions.
+4. Take classes → Learn from structured courses to gain new perspectives and skills.
+5. Participate in user groups → Engage with communities to learn, share, and avoid isolation.
+6. Experiment with environments → Try different tools and systems to expand your adaptability.
+7. Stay current → Keep up with evolving technologies beyond your immediate work.
+8. Get wired → Actively explore online resources and communities to stay informed.
+
+SUBTOPIC 4 : Opportunities for Learning
+
+SUBTOPIC 5 : Critical Thinking
+
+Think critically about what you read and hear. You need to ensure that the knowledge in your portfolio is accurate and unswayed by either vendor or media hype.
+
+👉 TIP 9 : Critically Analyze What You Read and Hear
+
+🔗 Care and Cultivation of Gurus (PAGE 17 in the book)
+
+TOPIC 6️⃣ (6️⃣) : Communicate!
+
+It’s not just what you’ve got, but also how you package it. Having the best ideas, the finest code, or the most pragmatic thinkingis ultimately sterile unless you can communicate with other people. A good idea is an orphan without effective communication.
+
+SUBTOPIC 1 : Know What You Want to Say
+
+Plan what you want to say. Write an outline. Then ask yourself, “Does this get across whatever I’m trying to say?” Refine it until it does.
+Use this technique when
+(a) writing documents
+(b) in a meeting
+(c) in a phone call with a client
+
+SUBTOPIC 2 : Know Your Audience
+
+You’re communicating only if you’re conveying information. To do that, you need to understand the needs, interests, and capabilities of your audience.
+
+To get every department excited about your project, make appropriate pitch to every one of them.
+
+SUBTOPIC 3 : Choose Your Moment
+
+Make what you’re saying relevant in time, as well as in content. Sometimes all it takes is the simple question “Is this a good time to talk about...?”
+
+🔗 The WISDOM acrostic—understanding an audience (Page 20 in the book)
+
+SUBTOPIC 4 : Choose a Style
+
+Adjust the style of your delivery to suit your audience.
+
+If in doubt, ask.
+
+Remember, however, that you are half of the communication transaction.
+
+SUBTOPIC 5 : Make It Look Good
+
+SUBTOPIC 6 : Involve Your Audience
+
+If possible, involve your readers with early drafts of your document. Get their feedback, and pick their brains. You’ll build a good working relationship, and you’ll probably produce a better document in the process.
+
+SUBTOPIC 7 : Be a Listener
+
+There’s one technique that you must use if you want people to listen to you: listen to them.
+
+Encourage people to talk by asking questions, or have them summarize what you tell them. Turn the meeting into a dialog, and you’ll make your point more effectively. Who knows, you might even learn something.
+
+SUBTOPIC 8 : Get Back to People
+
+Keeping people informed makes them far more forgiving of the occasional slip, and makes them feel that you haven’t forgotten them.
+
+👉 TIP 10 : It’s Both What You Say and the Way You Say It
+
+Unless you work in a vacuum, you need to be able to communicate. The more effective that communication, the more influential you become.

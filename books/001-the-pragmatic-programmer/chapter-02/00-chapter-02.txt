@@ -1,0 +1,159 @@
+📍 'The Evils of Duplication' warns us not to duplicate knowledge throughout
+our systems.
+
+📍 'Orthogonality' warns us not to split any one piece of knowledge across
+multiple system components.
+
+📍 In 'Reversibility', the authors will give some techniques that help insulate our projects from their changing environment.
+
+📍 'Tracer Bullets' is a style of development that allows us to gather requirements, test designs, and implement code at the same time.
+
+📍 'Prototypes' and 'Post-it Notes' are used when 'Trace Bullets' cannot be used. They show us how to use prototyping to test architectures, algorithms, interfaces, and ideas.
+
+📍 'Estimating' teaches us to get good at working out how long things will take.
+
+PART 1️⃣ (7️⃣) : The Evils of Duplication
+
+When we perform maintenance, we have to find and change the representations of things—those capsules of knowledge embedded in the application. The problem is that it’s easy to duplicate knowledge in the specifications, processes, and programs that we develop, and when we do so, we invite a maintenance nightmare—one that starts well before the application ships.
+
+The only way to develop software reliably, and to make our developments easier to understand and maintain, is to follow the DRY principle: EVERY PIECE OF KNOWLEDGE MUST HAVE A SINGLE, UNAMBIGUOUS, AUTHORITATIVE REPRESENTATION WITHIN A SYSTEM.
+
+👉 TIP 11 : DRY—Don’t Repeat Yourself
+
+SUBTOPIC 1 : How Does Duplication Arise?
+
+Types of duplication:
+
+(1) Imposed duplication. Developers feel they have no choice — the environment seems to require duplication.
+
+(2) Inadvertent duplication. Developers don’t realize that they are duplicating information.
+
+(3) Impatient duplication. Developers get lazy and duplicate because it seems easier.
+
+(4) Interdeveloper duplication. Multiple people on a team (or on different teams) duplicate a piece of information.
+
+SUBTOPIC 2 : Imposed Duplication
+
+Imposed Duplication → Duplication forced by external constraints, but often reducible with smarter design.
+
+📍 Multiple representations of information
+
+Ⓜ️ see 01-multiple-representations-of-information.md
+
+Ⓜ️ see 02-preventing-multiple-representations-of-information.md
+
+📍 Documentation in code
+
+Ⓜ️ see 03-high-level-explanation-in-comments.md
+
+📍 Documentation and code
+
+Generate tests from specifications to avoid duplication and keep them always in sync.
+
+📍 Language issues
+
+Ⓜ️ see 04-language-issues-01.md
+Ⓜ️ see 05-language-issues-02.md
+Ⓜ️ see 06-language-issues-03.md
+
+SUBTOPIC 3 : Inadvertent Duplication
+
+SUBTOPIC 5 : Impatient Duplication
+
+SUBTOPIC 3 : Interdeveloper Duplication
+
+👉 TIP 12 : Make It Easy to Reuse.
+
+PART 2️⃣ (8️⃣) : Orthogonality
+
+SUBTOPIC 1 : What Is Orthogonality?
+
+SUBTOPIC 2 : A Nonorthogonal System
+
+SUBTOPIC 3 : Benefits of Orthogonality
+
+👉 TIP 13 : Eliminate Effects Between Unrelated Things
+
+SUBTOPIC 4 : Gain Productivity
+
+SUBTOPIC 5 : Reduce Risk
+
+SUBTOPIC 6 : Project Teams
+
+SUBTOPIC 7 : Design
+
+SUBTOPIC 8 : Toolkits and libraries
+
+SUBTOPIC 9 : Coding
+
+SUBTOPIC 10 : Documentation
+
+SUBTOPIC 11 : Living with Orthogonality
+
+TOPIC 3️⃣ (9️⃣) : Reversibility
+
+SUBTOPIC 1 : Reversibility
+
+👉 TIP 14 : There Are No Final Decisions
+
+SUBTOPIC 2 : Flexible Architecture
+
+TOPIC 4️⃣ (🔟) : Tracer Bullets
+
+SUBTOPIC 1 : Code That Glows in the Dark
+
+👉 TIP 15 : Use Tracer Bullets to Find the Target
+
+SUBTOPIC 2 : Tracer Bullets Don’t Always Hit Their Target
+
+SUBTOPIC 3 : Tracer Code versus Prototyping
+
+TOPIC 5️⃣ (1️⃣1️⃣) : Prototypes and Post-it Notes
+
+SUBTOPIC 1 : Things to Prototype
+
+👉 TIP 16 : Prototype to Learn
+
+SUBTOPIC 2 : How to Use Prototypes
+
+SUBTOPIC 3 : Prototyping Architecture
+
+SUBTOPIC 4 : How Not to Use Prototypes
+
+TOPIC 6️⃣ (1️⃣2️⃣) : Domain Languages
+
+👉 TIP 17 : Program Close to the Problem Domain
+
+SUBTOPIC 1 : Implementing a Mini-Language
+
+SUBTOPIC 2 : Data Languages and Imperative Languages
+
+SUBTOPIC 3 : Stand-Alone and EmbeddedLanguages
+
+SUBTOPIC 4 : Easy Development or Easy Maintenance?
+
+TOPIC 7️⃣ (1️⃣3️⃣) : Estimating
+
+👉 TIP 18 : Estimate to Avoid Surprises
+
+SUBTOPIC 1 : How Accurate Is Accurate Enough?
+
+SUBTOPIC 2 : Where Do Estimates Come From?
+
+SUBTOPIC 3 : Understand What’s Being Asked?
+
+SUBTOPIC 4 : Build a Model of the System
+
+SUBTOPIC 5 : Break the Model into Components
+
+SUBTOPIC 6 : Give Each Parameter a Value
+
+SUBTOPIC 7 : Calculate the Answers
+
+SUBTOPIC 8 : Keep Track of Your Estimating Prowess
+
+SUBTOPIC 9 : Estimating Project Schedules
+
+👉 TIP 19 : Iterate the Schedule with the Code
+
+SUBTOPIC 10 : What to Say When Asked for an Estimate?
