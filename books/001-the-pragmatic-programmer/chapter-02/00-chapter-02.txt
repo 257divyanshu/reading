@@ -58,7 +58,10 @@ Generate tests from specifications to avoid duplication and keep them always in 
 
 SUBTOPIC 3 : Inadvertent Duplication
 
-SUBTOPIC 5 : Impatient Duplication
+Ⓜ️ see 07-inadvertent-duplication.md
+Ⓜ️ see 08-breaking-dry-principle-for-performance.md
+
+# SUBTOPIC 5 : Impatient Duplication
 
 SUBTOPIC 3 : Interdeveloper Duplication
 
