@@ -61,9 +61,11 @@ SUBTOPIC 3 : Inadvertent Duplication
 Ⓜ️ see 07-inadvertent-duplication.md
 Ⓜ️ see 08-breaking-dry-principle-for-performance.md
 
-# SUBTOPIC 5 : Impatient Duplication
+SUBTOPIC 5 : Impatient Duplication
 
-SUBTOPIC 3 : Interdeveloper Duplication
+Ⓜ️ see 09-impatient-duplication-and-y2k-fiasco.md
+
+⏸️ SUBTOPIC 3 : Interdeveloper Duplication
 
 👉 TIP 12 : Make It Easy to Reuse.
 
