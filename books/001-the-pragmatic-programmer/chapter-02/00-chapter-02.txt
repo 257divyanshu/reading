@@ -104,11 +104,17 @@ Isolate third party dependencies behind interfaces to prevent vendor lock-in and
 Ⓜ️ see 11-isolating-third-party-dependencies-behind-interfaces-01.md
 Ⓜ️ see 12-isolating-third-party-dependencies-behind-interfaces-02.md
 
-⏸️ SUBTOPIC 6 : Project Teams
+SUBTOPIC 6 : Project Teams
+
+Ⓜ️ 13-orthogonality-at-team-level.md
 
 SUBTOPIC 7 : Design
 
-SUBTOPIC 8 : Toolkits and libraries
+Ⓜ️ 14-layering-systems-for-orthogonal-design.md
+
+With orthogonal design, new interfaces can be added by modifying only the UI layer while reusing the same core logic.
+
+⏸️ SUBTOPIC 8 : Toolkits and libraries
 
 SUBTOPIC 9 : Coding
 
