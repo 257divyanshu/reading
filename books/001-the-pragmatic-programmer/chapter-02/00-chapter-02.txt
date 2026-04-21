@@ -114,9 +114,11 @@ SUBTOPIC 7 : Design
 
 With orthogonal design, new interfaces can be added by modifying only the UI layer while reusing the same core logic.
 
-⏸️ SUBTOPIC 8 : Toolkits and libraries
+SUBTOPIC 8 : Toolkits and libraries
 
-SUBTOPIC 9 : Coding
+Ⓜ️ preventing-libraries-and-toolkits-from-breaking-orthogonality.md
+
+⏸️ SUBTOPIC 9 : Coding
 
 SUBTOPIC 10 : Documentation
 
