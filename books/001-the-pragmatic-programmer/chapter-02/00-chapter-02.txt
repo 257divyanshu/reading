@@ -118,7 +118,12 @@ SUBTOPIC 8 : Toolkits and libraries
 
 Ⓜ️ preventing-libraries-and-toolkits-from-breaking-orthogonality.md
 
-⏸️ SUBTOPIC 9 : Coding
+SUBTOPIC 9 : Coding
+
+To maintain orthogonality while coding:
+Ⓜ️ 15-keep-code-decoupled.md
+Ⓜ️ 16-avoid-global-data.md
+Ⓜ️ 17-abstract-common-behavior-and-isolate-differences.md
 
 SUBTOPIC 10 : Documentation
 
