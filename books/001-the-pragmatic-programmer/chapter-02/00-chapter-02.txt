@@ -125,9 +125,14 @@ To maintain orthogonality while coding:
 Ⓜ️ 16-avoid-global-data.md
 Ⓜ️ 17-abstract-common-behavior-and-isolate-differences.md
 
-SUBTOPIC 10 : Documentation
+SUBTOPIC 10 : Testing
 
-SUBTOPIC 11 : Living with Orthogonality
+Ⓜ️ 18-orthogonality-makes-testing-easier.md
+Ⓜ️ 19-writing-orthogonal-documentation.md
+
+⏸️ SUBTOPIC 11 : Documentation
+
+SUBTOPIC 12 : Living with Orthogonality
 
 TOPIC 3️⃣ (9️⃣) : Reversibility
 
