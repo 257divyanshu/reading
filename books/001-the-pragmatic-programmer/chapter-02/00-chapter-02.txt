@@ -116,7 +116,7 @@ With orthogonal design, new interfaces can be added by modifying only the UI lay
 
 SUBTOPIC 8 : Toolkits and libraries
 
-Ⓜ️ preventing-libraries-and-toolkits-from-breaking-orthogonality.md
+Ⓜ️ 20-preventing-libraries-and-toolkits-from-breaking-orthogonality.md
 
 SUBTOPIC 9 : Coding
 
@@ -128,9 +128,10 @@ To maintain orthogonality while coding:
 SUBTOPIC 10 : Testing
 
 Ⓜ️ 18-orthogonality-makes-testing-easier.md
-Ⓜ️ 19-writing-orthogonal-documentation.md
 
-⏸️ SUBTOPIC 11 : Documentation
+SUBTOPIC 11 : Documentation
+
+Ⓜ️ 19-writing-orthogonal-documentation.md
 
 SUBTOPIC 12 : Living with Orthogonality
 
