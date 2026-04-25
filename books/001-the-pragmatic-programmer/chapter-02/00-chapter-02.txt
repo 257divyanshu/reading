@@ -135,9 +135,17 @@ SUBTOPIC 11 : Documentation
 
 SUBTOPIC 12 : Living with Orthogonality
 
+📂 see challenges/08-orthogonality
+
 TOPIC 3️⃣ (9️⃣) : Reversibility
 
+With every critical decision, the project team commits to a smaller target—a narrower version of reality that has fewer options.
+By the time manycritical decisions have been made, the target becomes so small that if it moves, or the wind changes direction, or a butterfly in Tokyo flaps its wings, you miss.4 And you may miss by a huge amount.
+The problem is that critical decisions aren’t easily reversible.
+
 SUBTOPIC 1 : Reversibility
+
+Ⓜ️ example-on-dont-lock-yourself-into-decisions.md
 
 👉 TIP 14 : There Are No Final Decisions
 
