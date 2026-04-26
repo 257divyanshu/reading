@@ -145,11 +145,15 @@ The problem is that critical decisions aren’t easily reversible.
 
 SUBTOPIC 1 : Reversibility
 
-Ⓜ️ example-on-dont-lock-yourself-into-decisions.md
+Ⓜ️ 21-example-on-dont-lock-yourself-into-decisions.md
+
+Ⓜ️ 22-reversible-deployment-architecture-design.md
 
 👉 TIP 14 : There Are No Final Decisions
 
 SUBTOPIC 2 : Flexible Architecture
+
+Ⓜ️ 23-decoupled-architecture-enables-reversibility.md
 
 TOPIC 4️⃣ (🔟) : Tracer Bullets
 
