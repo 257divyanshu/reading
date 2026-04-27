@@ -155,6 +155,8 @@ SUBTOPIC 2 : Flexible Architecture
 
 Ⓜ️ 23-decoupled-architecture-enables-reversibility.md
 
+Ⓜ️ 24-maintaining-reversiblity-while-developing-for-a-platform.md
+
 TOPIC 4️⃣ (🔟) : Tracer Bullets
 
 SUBTOPIC 1 : Code That Glows in the Dark
