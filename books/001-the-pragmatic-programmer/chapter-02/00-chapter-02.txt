@@ -159,9 +159,20 @@ SUBTOPIC 2 : Flexible Architecture
 
 TOPIC 4️⃣ (🔟) : Tracer Bullets
 
+Instead of predicting everything, build something small that actually runs and learn from real feedback immediately.
+Over-planning without real feedback is just guessing. Tracer bullets replace guessing with learning.
+
+Ⓜ️ 25-tracer-bullets-vs-classic-approach.md
+
 SUBTOPIC 1 : Code That Glows in the Dark
 
+Build small, working pieces of the real system fast, so you can see results and repeat the process continuously.
+
 👉 TIP 15 : Use Tracer Bullets to Find the Target
+
+Ⓜ️ 26-tracer-bullet-real-world-example.md
+
+Tracer code = a minimal but real, end-to-end implementation built early to get feedback, which is then incrementally extended into the final production system.
 
 SUBTOPIC 2 : Tracer Bullets Don’t Always Hit Their Target
 
