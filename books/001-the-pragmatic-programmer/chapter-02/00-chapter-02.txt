@@ -174,9 +174,16 @@ Build small, working pieces of the real system fast, so you can see results and 
 
 Tracer code = a minimal but real, end-to-end implementation built early to get feedback, which is then incrementally extended into the final production system.
 
+Advantages of tracer code approach:
+- Tracer code removes guesswork by providing a real working foundation, making development faster and more consistent.
+- Tracer code enables continuous integration, making debugging and testing faster, safer, and more accurate.
+- Tracer code approach gives a better fell for progress.
+
 SUBTOPIC 2 : Tracer Bullets Don’t Always Hit Their Target
 
 SUBTOPIC 3 : Tracer Code versus Prototyping
+
+Ⓜ️ 27-tracer-code-versus-prototyping.md
 
 TOPIC 5️⃣ (1️⃣1️⃣) : Prototypes and Post-it Notes
 
