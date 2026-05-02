@@ -187,11 +187,29 @@ SUBTOPIC 3 : Tracer Code versus Prototyping
 
 TOPIC 5️⃣ (1️⃣1️⃣) : Prototypes and Post-it Notes
 
+If you find yourself in an environment where you cannot give up the details, then you need to ask yourself if you are really building a prototype at all.
+
 SUBTOPIC 1 : Things to Prototype
+
+Prototyping is a learning experience. Its value lies not in the code produced, but in the lessons learned.
 
 👉 TIP 16 : Prototype to Learn
 
 SUBTOPIC 2 : How to Use Prototypes
+
+Details that can be ignored while buidling a prototype:
+- Correctness
+- Completeness
+- Robustness
+  - Prototype works only for happy path.
+  - If user does something unexpected, then the prototype might (i) crash or (ii) behave incorrectly
+  - Because while prototyping: (i) goal ≠ reliability (ii) goal = learning / exploration
+- Style
+  - We will learn a lot while prototyping.
+  - We may document (i) insights (ii) decisions (iii) findings.
+  - But we don't waste time documenting the prototype code itself.
+
+Ⓜ️ 28-scripting-as-glue-in-prototyping.md
 
 SUBTOPIC 3 : Prototyping Architecture
 
