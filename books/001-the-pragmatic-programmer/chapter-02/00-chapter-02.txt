@@ -213,7 +213,11 @@ Details that can be ignored while buidling a prototype:
 
 SUBTOPIC 3 : Prototyping Architecture
 
+Ⓜ️ 29-areas-to-look-for-in-architectural-prototype.md
+
 SUBTOPIC 4 : How Not to Use Prototypes
+
+- Make it very clear to everyone who is misled by the apparent completeness of a demonstrated prototype, that the prototype is disposable, incomplete, and unable to be completed.
 
 TOPIC 6️⃣ (1️⃣2️⃣) : Domain Languages
 
