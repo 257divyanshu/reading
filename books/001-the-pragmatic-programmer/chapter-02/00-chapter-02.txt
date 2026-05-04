@@ -221,7 +221,17 @@ SUBTOPIC 4 : How Not to Use Prototypes
 
 TOPIC 6️⃣ (1️⃣2️⃣) : Domain Languages
 
+The way people in a domain talk about a problem can guide how we should design our code.
+
+Design your code to reflect the domain’s vocabulary, because the domain itself hints at the right solution.
+
+Ⓜ️ 30-making-code-behave-like-problem-domain-language.md
+
+Ⓜ️ 31-domain-specific-language.md
+
 👉 TIP 17 : Program Close to the Problem Domain
+
+Capture user requirements as a domain-like mini-language → optionally make it executable → evolve it as requirements change → move your code closer to the problem domain.
 
 SUBTOPIC 1 : Implementing a Mini-Language
 
