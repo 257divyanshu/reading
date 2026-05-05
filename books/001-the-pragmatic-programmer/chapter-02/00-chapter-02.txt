@@ -235,6 +235,11 @@ Capture user requirements as a domain-like mini-language → optionally make it 
 
 SUBTOPIC 1 : Implementing a Mini-Language
 
+Ⓜ️ 32-two-levels-of-mini-language-implementation.md
+
+Third way to implement a mini-language is to extend an existing language:
+Ⓜ️ 33-extending-an-existing-language.md
+
 SUBTOPIC 2 : Data Languages and Imperative Languages
 
 SUBTOPIC 3 : Stand-Alone and EmbeddedLanguages
