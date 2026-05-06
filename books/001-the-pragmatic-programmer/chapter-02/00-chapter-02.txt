@@ -242,6 +242,10 @@ Third way to implement a mini-language is to extend an existing language:
 
 SUBTOPIC 2 : Data Languages and Imperative Languages
 
+Ⓜ️ 34-data-languages-and-imperative-languages.md
+
+Ⓜ️ 35-mainframe-and-mainframe-softwares.md
+
 SUBTOPIC 3 : Stand-Alone and EmbeddedLanguages
 
 SUBTOPIC 4 : Easy Development or Easy Maintenance?
