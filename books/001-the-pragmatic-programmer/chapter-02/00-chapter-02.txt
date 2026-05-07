@@ -248,7 +248,11 @@ SUBTOPIC 2 : Data Languages and Imperative Languages
 
 SUBTOPIC 3 : Stand-Alone and EmbeddedLanguages
 
+Ⓜ️ 36-mini-language-as-stand-alone-language-and-embedded-language.md
+
 SUBTOPIC 4 : Easy Development or Easy Maintenance?
+
+Ⓜ️ 37-prefer-extensible-mini-languages-over-simple-mini-languages.md
 
 TOPIC 7️⃣ (1️⃣3️⃣) : Estimating
 
