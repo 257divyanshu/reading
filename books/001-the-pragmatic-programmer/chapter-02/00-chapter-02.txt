@@ -256,11 +256,21 @@ SUBTOPIC 4 : Easy Development or Easy Maintenance?
 
 TOPIC 7️⃣ (1️⃣3️⃣) : Estimating
 
+Estimating forces us to explore the real problem space deepl.y, which improves our understanding of the system and its environment.
+
 👉 TIP 18 : Estimate to Avoid Surprises
+
+The first question you have to ask yourself when someone asks you for an estimate is the context in which your answer will be taken. Do they need high accuracy, or are they looking for a ballpark figure?
 
 SUBTOPIC 1 : How Accurate Is Accurate Enough?
 
+Choose the units of your answer to reflect the accuracy you intend to convey.
+
 SUBTOPIC 2 : Where Do Estimates Come From?
+
+Every estimate is derived from a simplified set of assumptions and understanding about the problem—not from perfect knowledge of reality.
+
+A basic estimating trick that always gives good answers: ask someone who’s already done it. See how their problem got solved.
 
 SUBTOPIC 3 : Understand What’s Being Asked?
 
