@@ -274,7 +274,15 @@ A basic estimating trick that always gives good answers: ask someone who’s alr
 
 SUBTOPIC 3 : Understand What’s Being Asked?
 
+The first part of any estimation exercise is building an understanding of what’s being asked. We need to make it a habit to think about the scope before starting to guess.
+
 SUBTOPIC 4 : Build a Model of the System
+
+Ⓜ️ 38-build-mental-model-of-the-system-for-estimation.md
+Good estimation comes from building simple mental models of the system, learning from them, and refining only until the added accuracy is worth the effort.
+
+Ⓜ️ 39-balancing-simplicity-and-accuracy-while-building-a-model-for-estimation.md
+More detailed models improve estimate accuracy, but make the estimation process more complex and time-consuming.
 
 SUBTOPIC 5 : Break the Model into Components
 
