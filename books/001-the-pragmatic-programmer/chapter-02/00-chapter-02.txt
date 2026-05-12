@@ -286,9 +286,17 @@ More detailed models improve estimate accuracy, but make the estimation process 
 
 SUBTOPIC 5 : Break the Model into Components
 
+Ⓜ️ 40-discover-mathematical-rules-describing-component-interaction.md
+Break a complex estimate into smaller components, understand how their effects combine, and identify the variables that influence each component.
+
 SUBTOPIC 6 : Give Each Parameter a Value
 
+Ⓜ️ 41-assigning-values-to-estimation-parameters.md
+Use real measurements (or comparable systems) for important parameters, because estimates built on other shaky estimates can amplify errors badly.
+
 SUBTOPIC 7 : Calculate the Answers
+
+Complex estimates shouldn’t produce a single fixed answer. Vary important parameters, calculate multiple scenarios, and express results as ranges/conditions rather than fake precision. Strange results are useful signals that your assumptions/model may be wrong.
 
 SUBTOPIC 8 : Keep Track of Your Estimating Prowess
 
