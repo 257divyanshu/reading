@@ -300,8 +300,27 @@ Complex estimates shouldn’t produce a single fixed answer. Vary important para
 
 SUBTOPIC 8 : Keep Track of Your Estimating Prowess
 
+Record your estimates so you can see how close you were. If an overall estimate involved calculating subestimates, keep track of these as well.
+
+When an estimate turns out wrong take some time to uncover what happened.
+
 SUBTOPIC 9 : Estimating Project Schedules
+
+The only way to determine the timetable for a project is by gaining experience on that same project.
+
+Practice incremental development by repeating the following steps:
+- Check requirements
+- Analyze risk
+- Design, implement, integrate
+- Validate with the users
+
+Its hard to estimate the number of iterations needed until you are building something that you have already built.
+Complete the coding and testing of the initial functionality. Mark it as the end of the first increment. Based on that experience, refine (i) the initial guess on the number of iterations (ii) what can be included in each.
+The refinement gets better and better each time, and confidence in the schedule grows along with it.
 
 👉 TIP 19 : Iterate the Schedule with the Code
 
 SUBTOPIC 10 : What to Say When Asked for an Estimate?
+
+Say, “I’ll get back to you.”
+Slow the process down and spend time going through the estimation steps mentioned above.
