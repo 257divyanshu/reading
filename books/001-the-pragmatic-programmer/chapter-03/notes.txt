@@ -1,0 +1,13 @@
+The better your tools, and the better you know how to use them, the more productive you can be.
+Always be on the lookout for better ways of doing things.
+If you come across a situation where you feel your current tools can’t cut it, make a note to look for something different or more powerful that would have helped.
+
+PART 1️⃣ (1️⃣4️⃣) : The Power of Plain Text
+
+The best format for storing knowledge persistently is plain text. With plain text, we give ourselves the ability to manipulate knowledge, both manually and programmatically.
+
+Plain text is often superior to binary formats for long-term usefulness and interoperability.
+
+Ⓜ️ 01-why-not-binary-format-instead-of-plain-text.md
+
+👉 TIP 20 : Keep Knowledge in Plain Text
