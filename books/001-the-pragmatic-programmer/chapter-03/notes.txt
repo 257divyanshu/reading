@@ -11,3 +11,9 @@ Plain text is often superior to binary formats for long-term usefulness and inte
 Ⓜ️ 01-why-not-binary-format-instead-of-plain-text.md
 
 👉 TIP 20 : Keep Knowledge in Plain Text
+
+SUBTOPIC 1 : Drawbacks
+
+In comparison to plain text, binary/structured machine-friendly formats that are cheaper to process.
+
+Ⓜ️ 02-metadata-in-plain-text-and-encryption-or-hashing-for-configuration-parameters-safety.md
