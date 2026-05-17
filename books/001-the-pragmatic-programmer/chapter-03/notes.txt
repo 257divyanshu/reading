@@ -17,3 +17,12 @@ SUBTOPIC 1 : Drawbacks
 In comparison to plain text, binary/structured machine-friendly formats that are cheaper to process.
 
 Ⓜ️ 02-metadata-in-plain-text-and-encryption-or-hashing-for-configuration-parameters-safety.md
+
+SUBTOPIC 2 : The Power of Text
+
+Benefits of plain text:
+- Insurance against obsolescence
+- Leverage
+- Easier testing
+
+Ⓜ️ 03-unix-philosophy.md
