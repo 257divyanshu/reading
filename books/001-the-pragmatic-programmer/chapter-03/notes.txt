@@ -26,3 +26,13 @@ Benefits of plain text:
 - Easier testing
 
 Ⓜ️ 03-unix-philosophy.md
+
+SUBTOPIC 3 : Lowest Common Denominator
+
+In diverse systems where many different technologies must communicate, plain text remains the universal common language because compatibility and interoperability matter more than raw efficiency.
+
+PART 2️⃣ (1️⃣5️⃣) : Shell Games
+
+👉 TIP 21 : Use the Power of Command Shells
+
+Gain familiarity with the shell, and you’ll find your productivity soaring.
