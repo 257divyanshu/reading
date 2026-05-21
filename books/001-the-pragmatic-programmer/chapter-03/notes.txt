@@ -36,3 +36,23 @@ PART 2️⃣ (1️⃣5️⃣) : Shell Games
 👉 TIP 21 : Use the Power of Command Shells
 
 Gain familiarity with the shell, and you’ll find your productivity soaring.
+
+PART 2️⃣ (1️⃣6️⃣) : Power Editing
+
+SUBTOPIC 1 : One Editor
+
+👉 TIP 22 : Use a Single Editor Well
+
+SUBTOPIC 2 : Editor Features
+
+SUBTOPIC 3 : Productivity
+
+SUBTOPIC 4 : Where to Go from Here
+
+PART 3️⃣ (1️⃣7️⃣) : Source Code Control
+
+SCCS lets us safely develop future versions while maintaining current releases, using branches and merges to manage parallel work.
+
+👉 TIP 22 : Always Use Source Code Control
+
+Ⓜ️ 04-manual-build-process-vs-automated-build.md
