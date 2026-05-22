@@ -56,3 +56,35 @@ SCCS lets us safely develop future versions while maintaining current releases, 
 👉 TIP 22 : Always Use Source Code Control
 
 Ⓜ️ 04-manual-build-process-vs-automated-build.md
+
+PART 4️⃣ (1️⃣8️⃣) : Debugging
+
+SUBTOPIC 1 : Psychology of Debugging
+
+👉 TIP 24 : Fix the Problem, Not the Blame
+
+SUBTOPIC 2 : A Debugging Mindset
+
+You need to turn off many of the defenses you use each day to protect your ego, tune out any project pressures you may be under, and get yourself comfortable.
+
+First rule of debugging is not to panic.
+
+👉 TIP 25 : Don't Panic
+
+Always try to discover the root cause of a problem, not just this particular appearance of it.
+
+SUBTOPIC 3 : Where to Start
+
+Set compiler warning levels as high as possible. It doesn’t make sense to waste time trying to find a problem that the compiler could find for you!
+
+Artificial tests don’t exercise enough of an application. You must brutally test both boundary conditions and realistic end-user usage patterns. You need to do this systematically.
+
+SUBTOPIC 4 : Debugging Strategies
+
+SUBTOPIC 5 : Visualize Your Data
+
+Often, the easiest way to discern what a program is doing—or what it is going to do—is to get a good look at the data it is operating on.
+
+SUBTOPIC 6 : Tracing
+
+Ⓜ️ 05-tracing.md
