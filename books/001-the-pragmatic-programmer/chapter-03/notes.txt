@@ -88,3 +88,40 @@ Often, the easiest way to discern what a program is doing—or what it is going 
 SUBTOPIC 6 : Tracing
 
 Ⓜ️ 05-tracing.md
+
+SUBTOPIC 7 : Rubber Ducking
+
+A very simple but particularly useful technique for finding the cause of a problem is simply to explain it to someone else.
+The simple act of explaining, step by step, what the code is supposed to do often causes the problem to leap off the screen and announce itself.
+In explaining the problem to another person you must explicitly state things that you may take for granted when going through the code yourself
+
+SUBTOPIC 8 : Process of Elimination
+
+👉 TIP 26 : “select” Isn’t Broken
+
+Don’t upgrade important external dependencies right before your product release unless you have enough time to test everything again.
+
+If, however, you have no obvious place to start looking, you can always rely on a good old-fashioned binary search.
+
+SUBTOPIC 9 : The Element of Surprise
+
+The amount of surprise you feel when something goes wrong is directly proportional to the amount of trust and faith you have in the code being run. That’s why, when faced with a “surprising” failure, you must realize that one or more of your assumptions is wrong. Don’t gloss over a routine or piece of code involved in the bug because you “know” it works. Prove it. Prove it in this context, with this data, with these boundary conditions.
+
+👉 TIP 27 : Don’t Assume It—Prove It
+
+When you come across a surprise bug, beyond merely fixing it, you need to determine why this failure wasn’t caught earlier. Consider whether you need to amend the unit or other tests so that they would have caught it.
+
+If the bug is the result of bad data that was propagated through a couple of levels before causing the explosion, see if better parameter checking in those routines would have isolated it earlier.
+
+While you’re at it, are there any other places in the code that may be susceptible to this same bug? Now is the time to find and fix them.
+
+If it took a long time to fix this bug, ask yourself why. Is there anything you can do to make fixing this bug easier the next time around?
+
+If the bug is the result of someone’s wrong assumption, discuss the problem with the whole team: if one person misunderstands, then it’s possible many people do.
+
+Debugging Checklist
+- Is the problem being reported a direct result of the underlying bug, or merely a symptom?
+- Is the bug really in the compiler? Is it in the OS? Or is it in your code?
+- If you explained this problem in detail to a coworker, what would you say?
+- If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
+- Do the conditions that caused this bug exist anywhere else in the system?
